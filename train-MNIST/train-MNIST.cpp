@@ -4,7 +4,7 @@
 *
 * Start caffe training from Visual Studio
 */
-//添加注释用于测试
+//roger 添加注释用于测试
 
 #include "caffe/caffe.hpp"
 #include "caffe/util/io.hpp"
